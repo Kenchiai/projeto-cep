@@ -30,7 +30,7 @@ Projeto desenvolvido utilizando JavaScript, Fetch API (AJAX) e a API pública Vi
 
 Ou acesse a versão online:
 
-https://SEU-USUARIO.github.io/projeto-cep/
+https://kenchiai.github.io/projeto-cep/
 
 ## Estrutura do Projeto
 
@@ -60,4 +60,4 @@ https://viacep.com.br/ws/01001000/json/
 
 ## Autor
 
-Seu Nome
+Bruno Kenyu Ochiai
